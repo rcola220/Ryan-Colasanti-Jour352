@@ -4,3 +4,40 @@ body {
     color: #444; 
     font-weight: 400;
 }
+
+h1 {
+    font-size: 3.5em;
+    color: #33485e;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+strong {
+    text-transform: uppercase;
+    font-size: 2em;
+    color: #33485e;
+}
+
+h2 {
+    font-size: 1.5em;
+    text-transform: uppercase;
+    background-color: #33485e;
+    font-weight: 400;
+    color: white; 
+}
+
+h3 {
+    font-size: 2em;
+    font-weight: 600;
+}
+
+h4 {
+    font-weight: 400;
+    font-size: 1.5em;
+}
+
+h5 {
+    font-weight: 400;
+    font-style: italic;
+    font-size: 1em;
+}
