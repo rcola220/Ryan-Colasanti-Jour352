@@ -1,3 +1,6 @@
+/* styles for my resume*/
+
+/* paragraph text*/
 body {
     font-family: 'Open Sans', arial, sans-serif;
     font-size: 1em;
@@ -5,6 +8,7 @@ body {
     font-weight: 400;
 }
 
+/* Name */
 h1 {
     font-size: 3.5em;
     color: #33485e;
@@ -12,12 +16,14 @@ h1 {
     text-align: center;
 }
 
+/* Job Title Journalist */
 strong {
     text-transform: uppercase;
     font-size: 2em;
     color: #33485e;
 }
 
+/* Categories */
 h2 {
     font-size: 1.5em;
     text-transform: uppercase;
@@ -26,16 +32,19 @@ h2 {
     color: white; 
 }
 
+/* Job Title within Experience */
 h3 {
     font-size: 2em;
     font-weight: 600;
 }
 
+/* Organization */
 h4 {
     font-weight: 400;
     font-size: 1.5em;
 }
 
+/* Dates of Job */
 h5 {
     font-weight: 400;
     font-style: italic;
