@@ -50,14 +50,32 @@ strong {
 }
 
 /* Organization */
-h4 {
+.organization {
     font-weight: 400;
     font-size: 1.5em;
 }
 
 /* Dates of Job */
-h5 {
+.date {
     font-weight: 400;
     font-style: italic;
     font-size: 1em;
+    margin-top: 3px;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.description {
+    margin: 10px 0px;
+}
+
+.menu {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.menu li {
+    display: inline;
 }
