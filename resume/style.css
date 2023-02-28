@@ -8,6 +8,13 @@ body {
     font-weight: 400;
 }
 
+#container {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding-bottom: 50px;
+}
+
 /* Name */
 #name {
     font-size: 3.5em;
@@ -18,15 +25,23 @@ body {
     width: 60%;
     min-width: 300px;
     margin: 0 auto;
-
+/* Did this section with no problem */
 }
 
 /* Job Title Journalist */
-strong {
+#title {
     text-transform: uppercase;
     font-size: 2em;
     color: #33485e;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
 }
+
+/* I don't know if I messed up something in title element or in the element that contains my contact info but it doesn't represent the example given*/
 
 /* Categories */
 .sectionheader {
@@ -37,8 +52,8 @@ strong {
     color: white; 
     margin-top: 20px;
     margin-bottom: 10px;
-    margin-right: 0;
-    margin-left: 0;
+    margin-right: 0px;
+    margin-left: 0px;
     width: 70%;
     min-width: 300px;
 }
@@ -61,9 +76,9 @@ strong {
     font-style: italic;
     font-size: 1em;
     margin-top: 3px;
-    margin-bottom: 0;
-    margin-left: 0;
-    margin-right: 0;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
 }
 
 .description {
@@ -71,11 +86,35 @@ strong {
 }
 
 .menu {
-    margin: 0;
+    margin: 0px;
     padding: 0;
     text-align: center;
 }
+/* I added the correct elements but it still did not look like the example */
 
 .menu li {
     display: inline;
 }
+
+#degrees {
+    margin-top: 5px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+#do {
+    margin-top: 5px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.top {
+    width: 60%;
+    min-width: 300px;
+    margin: 0 auto;
+    margin-bottom: 30px;
+}
+
+/* Overall I felt very good about doing this except for the top of the page where I just couldn't figure out my problem in making it look like the example */
