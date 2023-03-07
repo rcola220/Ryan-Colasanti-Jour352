@@ -2,12 +2,63 @@
     margin-top: 25px;
     background-color:black;
     color: white;
+    font-family: 'Special Elite', cursive;
 }
 
 .col-md-6 {
     text-align: center;
 }
 
-.icon {
+.bi bi-book{
     font-size: 3em;
+}
+
+.bi bi-chat-dots {
+    font-size: 3em;
+}
+
+.bi bi-heart {
+    font-size: 3em;
+}
+
+.col-md-4 {
+    text-align: center;
+}
+
+.btn {
+    font-family: 'Special Elite', cursive;
+}
+
+h1 {
+    font-family: 'Special Elite', cursive;
+}
+
+h2 {
+    font-family: 'Special Elite', cursive;
+}
+
+h3 {
+    font-family: 'Special Elite', cursive;
+}
+
+.navbar-brand {
+    font-family: 'Special Elite', cursive;
+}
+
+.row {
+    padding-bottom: 50px;
+}
+
+@media screen and (max-width: 500px) {
+    h2 {
+        padding-top: 50px;
+    }
+
+    .btn {
+        background-color: teal;
+    }
+
+    .buttonn {
+        background-color: teal;
+    }
 }
