@@ -1,0 +1,35 @@
+.Topper {
+    background-color: rgb(213, 229, 235);
+    padding: 1em;
+    text-align: center;
+    font-size: 75px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: orange;
+    font-weight: bold;
+    border-style: inset;
+    border-color: orange;
+    border-width: thick;
+}
+
+#content {
+    margin: 0 auto;
+    width: 900px;
+}
+
+.Headline{
+    text-align: center;
+    font-weight: bolder;
+    font-size: 45px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.Headline p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+}
