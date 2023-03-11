@@ -16,20 +16,48 @@
     width: 900px;
 }
 
-.Headline{
+.Headline {
     text-align: center;
     font-weight: bolder;
-    font-size: 45px;
+    font-size: 30px;
     padding-top: 5px;
     padding-bottom: 5px;
     margin-top: 10px;
     margin-bottom: 10px;
 }
 
-.Headline p {
-    font-family: Arial, Helvetica, sans-serif;
+.Headline h1 {
+    font-family: Helvetica, sans-serif;
+}
+
+#byline {
+    font-family: Helvetica, sans-serif;
+    font-size: 14px;
+    font-style: italic;
+    }
+
+.pictures img {
+    max-width: 75%;
+    height: auto;
+}
+
+blockquote {
+    font-family: Helvetica, sans-serif;
+    font-size: 25px;
+    font-weight: bolder;
+    color: green;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.reading {
+    margin-top: 20px;
+    padding-top: 10px;
 }
 
 p {
-    font-family: 'Times New Roman', Times, serif;
+    font-family: Georgia, serif;
+    font-size: 13px;
 }
