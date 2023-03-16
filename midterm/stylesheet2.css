@@ -1,0 +1,42 @@
+.Topper {
+    background-color: blue;
+    padding: 1em;
+    text-align: center;
+    font-size: 85px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    font-weight: bold;
+    border-style: dashed;
+    border-color: orange;
+    border-width: thick;
+}
+
+.image img {
+    max-width: 50%;
+    height: auto;
+    padding-left: .5em;
+}
+
+h1 {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+    padding: 1em;
+
+}
+
+h2 {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+    font-weight: bold;
+    color: blue;
+    padding: .5em;
+}
+
+p {
+    text-align: left;
+    font-size: 12px;
+    font-family: Helvetica, Arial, sans-serif;
+
+}
