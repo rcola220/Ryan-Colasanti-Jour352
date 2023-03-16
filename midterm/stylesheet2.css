@@ -14,14 +14,17 @@
 .image img {
     max-width: 50%;
     height: auto;
-    padding-left: .5em;
+    padding: .5em;
 }
-
+/* This image element gave me a little trouble because I forgot that you needed to attach the img as well the class designation */
 h1 {
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 40px;
-    padding: 1em;
+    font-size: 45px;
+    padding-top: 1em;
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-bottom: .3em;
 
 }
 
@@ -39,4 +42,30 @@ p {
     font-size: 12px;
     font-family: Helvetica, Arial, sans-serif;
 
+}
+/* This time through instead of using a big amount of divs I remembered to style each element with indivdual tags. I found this to be easier especially for this type of webpage that has many similar pieces */
+
+#text {
+    margin: 0 auto;
+    width: 950px;
+}
+
+#byline {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    font-size: 20px;
+    padding-bottom: 1em;
+    text-align: center;
+}
+
+.NFT {
+    padding-top: 1em;
+}
+
+blockquote {
+    font-family: Helvetica, Arial, sans-serif;
+    color: red;
+    font-size: 28px;
+    font-style: italic;
+    padding: 10px;
 }
