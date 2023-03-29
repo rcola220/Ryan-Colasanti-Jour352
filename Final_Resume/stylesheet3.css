@@ -1,0 +1,170 @@
+.Topper  {
+    background-image: url(baseball\ field\ clipart.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding: 100px;
+    font-size: 150px;
+    text-align: center;
+    font-weight: bold;
+    color: #0352E6;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.Topper p {
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 100px;
+    color: #0352E6;
+    font-weight: bold;
+}
+
+.Me {
+    margin: 25px;
+    padding: 40px;
+}
+
+.Me img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border-radius: 50%;
+}
+
+.Me h1 {
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #0352E6;
+    padding-top: 10px;
+    font-size: 75px;
+    text-decoration: underline;
+}
+
+.Me p {
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #0352E6;
+    padding-top: 5px;
+}
+
+.Work {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 15px;
+    text-align: center;
+    font-size: 75px;
+    color: #0352E6;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration: underline;
+}
+
+.col-md-6 {
+    padding-top: 15px;
+    margin-top: 5px;
+}
+
+.col-md-6 h3 {
+    padding-bottom: 20px;
+    background-color: #FCB66F;
+    font-size: 50px;
+    text-align: center;
+    color: #0352E6;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.col-md-6 a {
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.Jobs {
+    padding-top: 70px;
+    padding-bottom: 10px;
+    margin-bottom: 15px;
+    text-align: center;
+    font-size: 75px;
+    color: #0352E6;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration: underline;
+}
+
+.fill {
+    background-color: #FCB66F;
+}
+
+.fill h1 {
+    padding-bottom: 20px;
+    font-size: 50px;
+    text-align: center;
+    color: #0352E6;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.fill p {
+    padding-top: 20px;
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #0352E6;
+    padding-left: 10px;
+}
+
+#border {
+    border-style: solid;
+    border-color: #FCB66F;
+    border-width: 3px;
+    margin-top: 100px;
+}
+
+.Skills {
+    padding-top: 20px;
+    padding-bottom: 10px;
+    margin-bottom: 15px;
+    text-align: center;
+    font-size: 75px;
+    color: #0352E6;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration: underline;
+}
+
+.col-md-12 li {
+    padding-top: 20px;
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #0352E6;
+    padding-left: 10px;
+}
+
+.education {
+    padding-top: 70px;
+    padding-bottom: 10px;
+    margin-bottom: 15px;
+    text-align: center;
+    font-size: 75px;
+    color: #0352E6;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration: underline;
+}
+
+.text p {
+    padding-top: 20px;
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #0352E6;
+    text-align: center;
+}
+
+p {
+    font-size: 10px;
+    text-align: center;
+    color: black;
+}
+
+@media screen and (max-width: 500px) {
+    .Topper {
+        font-size: 50px;
+    }
+
+    .Topper p {
+        font-size: 25px;
+    }
+}
