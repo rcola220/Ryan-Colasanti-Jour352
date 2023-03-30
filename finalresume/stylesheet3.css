@@ -167,4 +167,8 @@ p {
     .Topper p {
         font-size: 25px;
     }
+
+    iframe {
+        max-width: 350px;
+    }
 }
