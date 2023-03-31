@@ -1,19 +1,15 @@
 .headline {
     text-align: center;
-    margin-top: 5px;
-    padding-top: 10px;
-    color: black;
-    font-size: 75px;
-    font-weight: bold;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 3em;
+    font-weight: 700;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .byline {
     text-align: center;
-    margin-top: 2px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    color: gray;
-    font-size: 25px;
+    font-size: 1em;
+    text-transform: uppercase;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .chapter {
@@ -21,11 +17,32 @@
     margin-top: 30px;
     font-size: 45px;
     color: black;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-weight: bold;
+    padding-bottom: 30px;
 }
 
-.writing {
-    margin-top: 15px;
-    padding-bottom: 15px;
+p {
+    font-family: Georgia, serif;
+    line-height: 180%;
+}
+
+img {
+    margin-right: auto;
+    margin-left: auto;
+    width: 50%;
+    display: block;
+}
+
+.caption {
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin: 5px;
+    padding: 30px;
 }
