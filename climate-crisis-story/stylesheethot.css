@@ -133,9 +133,16 @@ img {
     font-size: 1em;
 }
 
-.box-bottom {
-    font-family: 'Karla', sans-serif;
-    font-size: 1em;
+a:link {
+    color: green;
+}
+
+a:hover {
+    color: blue;
+}
+
+a:visited {
+    color: purple;
 }
 
 .reporters {
