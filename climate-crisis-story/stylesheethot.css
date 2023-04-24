@@ -66,14 +66,14 @@ body {
     text-align: left;
     margin-top: 30px;
     font-size: 45px;
-    color: black;
-    font-family: 'Montserrat', sans-serif;
+    color: rgb(255, 166, 0);
+    font-family: 'Playfair Display', Georgia, 'Times New Roman', Times, serif;
     font-weight: bold;
     padding-bottom: 30px;
 }
 
 p {
-    font-family: Georgia, serif;
+    font-family: 'Karla', sans-serif;
     line-height: 180%;
 }
 
