@@ -90,14 +90,14 @@ img {
 }
 
 .quote {
-    font-family: 'jost','helvetica','sans-serif';
-    color: maroon;
+    font-family: 'Playfair Display', Georgia, 'Times New Roman', Times, serif;
+    color: red;
     font-size: 3em;
     font-weight: 600;
     text-align: left;
     padding: 15px 0px 15px 0px;
-    border-top: 1px solid black;
-    border-bottom: 1px solid black;
+    border-top: 3px dashed rgb(255, 191, 72);
+    border-bottom: 3px dashed rgb(255, 191, 72);
     margin-top: 20px;
     margin-bottom: 20px;
 }
@@ -105,7 +105,7 @@ img {
 .attribution {
     font-size: .5em;
     font-weight: 400;
-    font-family: 'jost','helvetica','sans-serif';
+    font-family: 'Karla', sans-serif;
 }
 
 .fancy-box {
