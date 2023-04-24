@@ -109,18 +109,37 @@ img {
 }
 
 .fancy-box {
-    border: 2px solid goldenrod;
+    border: 5px dotted red;
 }
 
 .box-title {
     font-size: 2em;
-    background: goldenrod;
+    background: rgb(255, 191, 72);
+    text-align: center;
+    font-family:'Playfair Display', Georgia, 'Times New Roman', Times, serif;
+    color: black;
+}
+
+.box-middle {
+    font-size: 1em;
+    font-family: 'Karla', sans-serif;
 }
 
 .box-list {
     padding-top: 15px;
     padding-bottom: 15px;
     text-align: left;
+    font-family: 'Karla', sans-serif;
+    font-size: 1em;
+}
+
+.box-bottom {
+    font-family: 'Karla', sans-serif;
+    font-size: 1em;
+}
+
+.reporters {
+    font-style: italic;
 }
 
 .footer {
