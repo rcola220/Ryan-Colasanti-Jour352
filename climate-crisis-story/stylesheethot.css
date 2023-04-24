@@ -165,4 +165,8 @@ a:visited {
     .hero-sub {
         font-size: 1em;
     }
+
+    .headline {
+        font-size: 2em;
+    }
 }
