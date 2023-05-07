@@ -1,0 +1,107 @@
+body {
+    background: black;
+}
+
+.topper {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.clock {
+    width: 100%;
+}
+
+.text-topper {
+    position: absolute;
+    width: 100%;
+    top: 30%;
+    background: black;
+    opacity: .8;
+}
+
+.words-topper {
+    text-transform: uppercase;
+    font-size: 150px;
+    color: red;
+    font-family: 'Playball', cursive;
+}
+
+.headline {
+    text-align: center;
+    font-size: 85px;
+    font-weight: 700;
+    font-family: 'Playball', cursive;
+    padding-top: 15px;
+    color: #fbc157;
+
+}
+
+.byline {
+    text-align: center;
+    font-size: 1em;
+    text-transform: uppercase;
+    font-family: 'Quicksand', sans-serif;
+    color: white;
+}
+
+.quote {
+    font-family: 'Playball', cursive;
+    color: red;
+    font-size: 3em;
+    font-weight: 600;
+    text-align: center;
+    padding: 15px 0px 15px 0px;
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+
+.attribution {
+    font-size: .5em;
+    font-weight: 400;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.chapter {
+    text-align: left;
+    margin-top: 30px;
+    font-size: 45px;
+    color: #fbc157;
+    font-family: 'Playball', cursive;
+    font-weight: bold;
+    padding-bottom: 30px;
+    text-transform: uppercase;
+}
+
+.subhead {
+    font-weight: bold;
+    color: #fbc157;
+    font-family: 'Quicksand', sans-serif;
+}
+
+p {
+    font-family: 'Quicksand', sans-serif;
+    line-height: 180%;
+    color: white;
+    font-size: 16px;
+}
+
+img {
+    margin-right: auto;
+    margin-left: auto;
+    width: 50%;
+    display: block;
+}
+
+.caption {
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin: 5px;
+    padding: 30px;
+}
