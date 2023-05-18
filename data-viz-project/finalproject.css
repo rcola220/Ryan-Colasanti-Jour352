@@ -131,3 +131,17 @@ img {
     margin: 5px;
     padding: 30px;
 }
+
+@media (max-width: 900px) {
+    .words-topper {
+        font-size: 3em;
+    }
+
+    .hero-sub {
+        font-size: 1em;
+    }
+
+    .headline {
+        font-size: 2em;
+    }
+}
